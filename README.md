@@ -52,6 +52,7 @@ This project mimics a product team analyzing user behavior to:
 ## 🙋‍♀️ About Me
 
 I'm an aspiring software developer with a passion for data and clean UI/UX. This was my first full project combining analysis, interactivity, and deployment! This was my first go at a project utilizing Python.
+I’ve worked in management for 8+ years. I wanted to bring that experience into tech by building a dashboard that analyzes user behavior and decision-making. I first got started utlizing basic Excel spreadsheets to anazlyze data. I wanted to see how I could go further to make something more interactive, visually stimulating, and get myself more working experience with Python.
 
 📧 Contact: tristanpacheco9@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/findtristanp](https://linkedin.com/in/findtristanp)
