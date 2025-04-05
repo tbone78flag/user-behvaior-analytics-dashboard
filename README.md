@@ -51,7 +51,7 @@ This project mimics a product team analyzing user behavior to:
 
 ## 🙋‍♀️ About Me
 
-I'm an aspiring software developer with a passion for data and clean UI/UX. This was my first full project combining analysis, interactivity, and deployment! THis was my first go at a project utilizing Python.
+I'm an aspiring software developer with a passion for data and clean UI/UX. This was my first full project combining analysis, interactivity, and deployment! This was my first go at a project utilizing Python.
 
 📧 Contact: tristanpacheco9@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/findtristanp](https://linkedin.com/in/findtristanp)
